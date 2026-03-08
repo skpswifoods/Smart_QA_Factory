@@ -1,0 +1,20 @@
+smart-qa-factory
+│
+├── index.html
+├── style.css
+├── app.js
+│
+├── modules
+│   ├── ghp.html
+│   ├── ccp.html
+│   ├── metal.html
+│   ├── cleaning.html
+│   └── maintenance.html
+│
+├── netlify
+│   └── functions
+│       ├── ghp.js
+│       ├── ccp.js
+│       └── maintenance.js
+│
+└── netlify.toml
